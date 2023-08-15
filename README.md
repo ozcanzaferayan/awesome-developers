@@ -8,6 +8,7 @@
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | React     | 8          |
+| @ebrardev | React,Nextjs   | 1-2          |
 
 ## Backend
 | Username        | Techstack  | Experience |
@@ -28,6 +29,7 @@
 | Username        | Techstack  | Experience |
 | --------------- | ---------- | ---------- |
 | @ozcanzaferayan | Swift      | 8          |
+| @ebrardev       | React Native | 0-1        |
 
 ## DevOps
 | Username        | Techstack  | Experience |
