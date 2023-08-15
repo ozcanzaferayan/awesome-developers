@@ -8,6 +8,7 @@
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | React     | 8          |
+| @av-erencelik   | React, Flutter, Next     | 0 - 1          |
 
 ## Backend
 | Username        | Techstack  | Experience |
