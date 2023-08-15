@@ -12,10 +12,7 @@
 | @ozcanzaferayan | React     | 8          |
 | @ebrardev       | React,Nextjs | 1-2     |
 | AhmetYalcinkaya | React,Next | 2         |
-
-| Username        | Techstack  | Experience |
-| --------------- | ---------- | ---------- |
-| @ozcanzaferayan | React      | 8          |
+| @07kagan07 | React,Nextjs     | 1        |
 
 ## Backend
 
@@ -43,7 +40,6 @@
 | @ebrardev       | React Native | 0-1      |
 
 ## DevOps
-
-| Username        | Techstack | Experience |
-| --------------- | --------- | ---------- |
-| @ozcanzaferayan | Azure     | 8          |
+| Username        | Techstack  | Experience |
+| --------------- | ---------- | ---------- |
+| @ozcanzaferayan | Azure      | 8          |
