@@ -28,6 +28,7 @@
 | Username        | Techstack  | Experience |
 | --------------- | ---------- | ---------- |
 | @ozcanzaferayan | Swift      | 8          |
+| @japsadev       | Swift      | 1          |
 
 ## DevOps
 | Username        | Techstack  | Experience |
