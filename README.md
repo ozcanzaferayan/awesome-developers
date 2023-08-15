@@ -8,6 +8,7 @@
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | React     | 8          |
+|@celebiabdulkadir|Vue, React, Next | 1|
 
 ## Backend
 | Username        | Techstack  | Experience |
