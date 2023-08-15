@@ -1,7 +1,8 @@
 # awesome-developers
-* Username: Github username
-* Techstack: Technologies you use
-* Experience (years): How many years you have been using the techstack
+## Açıklama
+* Username: Github kullanıcı adınız
+* Techstack: Kullandığınız teknolojiler
+* Experience (years): Kaç yıldır bu teknolojiyi kullandığınız
 
 ## Frontend
 | Username        | Techstack | Experience |
