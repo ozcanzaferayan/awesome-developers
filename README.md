@@ -13,11 +13,13 @@
 | Username        | Techstack  | Experience |
 | --------------- | ---------- | ---------- |
 | @ozcanzaferayan | C#         | 8          |
+| @OmerFI         | Python, Django, DRF, Celery | 3 |
 
 ## Fullstack
 | Username        | Techstack  | Experience |
 | --------------- | ---------- | ---------- |
 | @ozcanzaferayan | C#, JQuery | 8          |
+| @OmerFI         | Python, Django, DRF, Celery, React, JQuery | 3 |
 
 ## Android
 | Username        | Techstack  | Experience |
