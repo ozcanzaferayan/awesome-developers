@@ -7,11 +7,15 @@
 - Experience (years): Kaç yıldır bu teknolojiyi kullandığınız
 
 ## Frontend
+| Username        | Techstack | Experience |
+| --------------- | --------- | ---------- |
+| @ozcanzaferayan | React     | 8          |
+| @ebrardev       | React,Nextjs | 1-2     |
+| AhmetYalcinkaya | React,Next | 2         |
 
 | Username        | Techstack  | Experience |
 | --------------- | ---------- | ---------- |
 | @ozcanzaferayan | React      | 8          |
-| AhmetYalcinkaya | React,Next | 2          |
 
 ## Backend
 
@@ -32,10 +36,11 @@
 | @ozcanzaferayan | Kotlin    | 8          |
 
 ## iOS
-
-| Username        | Techstack | Experience |
-| --------------- | --------- | ---------- |
-| @ozcanzaferayan | Swift     | 8          |
+=======
+| Username        | Techstack  | Experience |
+| --------------- | ---------- | ---------- |
+| @ozcanzaferayan | Swift      | 8          |
+| @ebrardev       | React Native | 0-1      |
 
 ## DevOps
 
