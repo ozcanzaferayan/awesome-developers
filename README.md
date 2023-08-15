@@ -8,6 +8,7 @@
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | React     | 8          |
+| @yusufgns       | React/Next| 0-1        |
 
 ## Backend
 | Username        | Techstack  | Experience |
