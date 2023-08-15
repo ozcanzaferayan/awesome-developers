@@ -34,6 +34,7 @@
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | Kotlin    | 8          |
+| @suleymanoner   | React Native | 1-2     |
 
 ## iOS
 | Username        | Techstack  | Experience |
