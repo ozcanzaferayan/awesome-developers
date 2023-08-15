@@ -7,11 +7,13 @@
 - Experience (years): Kaç yıldır bu teknolojiyi kullandığınız
 
 ## Frontend
-
-| Username        | Techstack  | Experience |
-| --------------- | ---------- | ---------- |
-| @ozcanzaferayan | React      | 8          |
-| @goktugs        | React/Next | 3          |
+| Username        | Techstack | Experience |
+| --------------- | --------- | ---------- |
+| @ozcanzaferayan | React     | 8          |
+| @ebrardev       | React,Nextjs | 1-2     |
+| AhmetYalcinkaya | React,Next | 2         |
+| @07kagan07 | React,Nextjs     | 1        |
+| @goktugs        | React/Next | 3         |
 
 ## Backend
 
@@ -33,13 +35,12 @@
 | @ozcanzaferayan | Kotlin    | 8          |
 
 ## iOS
-
-| Username        | Techstack | Experience |
-| --------------- | --------- | ---------- |
-| @ozcanzaferayan | Swift     | 8          |
+| Username        | Techstack  | Experience |
+| --------------- | ---------- | ---------- |
+| @ozcanzaferayan | Swift      | 8          |
+| @ebrardev       | React Native | 0-1      |
 
 ## DevOps
-
-| Username        | Techstack | Experience |
-| --------------- | --------- | ---------- |
-| @ozcanzaferayan | Azure     | 8          |
+| Username        | Techstack  | Experience |
+| --------------- | ---------- | ---------- |
+| @ozcanzaferayan | Azure      | 8          |
