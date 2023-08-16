@@ -40,6 +40,7 @@
 | --------------- | ---------- | ---------- |
 | @ozcanzaferayan | Swift      | 8          |
 | @ebrardev       | React Native | 0-1      |
+| @sivilabdullah  | Swift      | 1          |
 
 ## DevOps
 | Username        | Techstack  | Experience |
