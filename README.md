@@ -28,6 +28,7 @@
 | --------------- | ------------ | ---------- |
 | @ozcanzaferayan | C#, JQuery   | 8          |
 | @goktugs        | React,Nodejs | 3          |
+| [@nizsimsek](https://github.com/nizsimsek) | React, Laravel, NodeJS, WebSocket | 2 |
 
 ## Android
 
