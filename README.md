@@ -15,6 +15,7 @@
 | @07kagan07 | React,Nextjs     | 1        |
 | @goktugs        | React/Next | 3         |
 | @yusufgns       | React/Next| 0-1        |
+| @mustafatoptas  | React/Next/Vue| 6          |
 
 ## Backend
 
@@ -28,6 +29,7 @@
 | --------------- | ------------ | ---------- |
 | @ozcanzaferayan | C#, JQuery   | 8          |
 | @goktugs        | React,Nodejs | 3          |
+| @mustafatoptas  | Nodejs/.Net MVC/.Net Core | 6          |
 
 ## Android
 
@@ -40,6 +42,8 @@
 | --------------- | ---------- | ---------- |
 | @ozcanzaferayan | Swift      | 8          |
 | @ebrardev       | React Native | 0-1      |
+| @mustafatoptas  | Flutter | 2             |
+
 
 ## DevOps
 | Username        | Techstack  | Experience |
