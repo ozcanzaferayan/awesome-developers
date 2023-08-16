@@ -15,6 +15,7 @@
 | @07kagan07 | React,Nextjs     | 1        |
 | @goktugs        | React/Next | 3         |
 | @yusufgns       | React/Next| 0-1        |
+| @CenkErdonmez   | React/Next| 0-1        |
 
 ## Backend
 
