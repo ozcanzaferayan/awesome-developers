@@ -15,6 +15,7 @@
 | @07kagan07 | React,Nextjs     | 1        |
 | @goktugs        | React/Next | 3         |
 | @yusufgns       | React/Next| 0-1        |
+| @rasitozgun | React/Next | 0-1        |
 
 ## Backend
 
@@ -28,6 +29,7 @@
 | --------------- | ------------ | ---------- |
 | @ozcanzaferayan | C#, JQuery   | 8          |
 | @goktugs        | React,Nodejs | 3          |
+| @rasitozgun        | React,Nodejs,PHP | 1          |
 
 ## Android
 
