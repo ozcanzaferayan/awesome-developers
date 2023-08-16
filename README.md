@@ -8,14 +8,14 @@
 
 ## Frontend
 | Username        | Techstack    | Experience |
-| --------------- |--------------| ---------- |
+|-----------------|--------------| ---------- |
 | @ozcanzaferayan | React        | 8          |
 | @ebrardev       | React,Nextjs | 1-2     |
 | AhmetYalcinkaya | React,Next   | 2         |
-| @07kagan07 | React,Nextjs | 1        |
+| @07kagan07      | React,Nextjs | 1        |
 | @goktugs        | React/Next   | 3         |
 | @yusufgns       | React/Next   | 0-1        |
-| @dilekaltun35      | Vue/Nuxt     | 0-1        |
+| @dilekaltun35   | Vue/Nuxt     | 0-1        |
 
 ## Backend
 
