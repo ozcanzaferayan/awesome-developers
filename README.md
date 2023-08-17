@@ -15,12 +15,14 @@
 | @07kagan07 | React,Nextjs     | 1        |
 | @goktugs        | React/Next | 3         |
 | @yusufgns       | React/Next| 0-1        |
+| @karabayyazilim | React     | 2          |
 
 ## Backend
 
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | C#        | 8          |
+| @karabayyazilim | PHP, Node.js | 4       |
 
 ## Fullstack
 
@@ -45,3 +47,4 @@
 | Username        | Techstack  | Experience |
 | --------------- | ---------- | ---------- |
 | @ozcanzaferayan | Azure      | 8          |
+| @karabayyazilim | Docker     | 1          |
