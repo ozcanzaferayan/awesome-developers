@@ -15,6 +15,7 @@
 | @07kagan07 | React,Nextjs     | 1        |
 | @goktugs        | React/Next | 3         |
 | @yusufgns       | React/Next| 0-1        |
+| @frkinal        | React/Next| 1-2        |
 
 ## Backend
 
@@ -34,12 +35,14 @@
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | Kotlin    | 8          |
+| @frkinal        | React Native| 1-2      |
 
 ## iOS
 | Username        | Techstack  | Experience |
 | --------------- | ---------- | ---------- |
 | @ozcanzaferayan | Swift      | 8          |
 | @ebrardev       | React Native | 0-1      |
+| @frkinal        | React Native | 1-2      |
 
 ## DevOps
 | Username        | Techstack  | Experience |
