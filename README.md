@@ -21,7 +21,7 @@
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | C#        | 8          |
-
+| @mustafaciftc   |Django/Node| 1          |
 ## Fullstack
 
 | Username        | Techstack    | Experience |
