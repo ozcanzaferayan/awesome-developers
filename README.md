@@ -22,7 +22,7 @@
 ## Android
 | Username        | Techstack  | Experience |
 | --------------- | ---------- | ---------- |
-| @ozcanzaferayan | Kotlin     | 8          |
+| @baris-gungorr  | Kotlin     |  1         |
 
 ## iOS
 | Username        | Techstack  | Experience |
