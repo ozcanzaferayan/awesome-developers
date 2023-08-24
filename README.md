@@ -32,7 +32,6 @@
 ## Backend
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
-| @ozcanzaferayan | C#        | 8          |
 | @karabayyazilim | PHP, Node.js | 4       |
 | @enesorhaan     | C#        | 1-2        |
 | @OmerFI         | Python, Django, DRF, Celery | 3 |
@@ -52,25 +51,31 @@
 ## Android
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
-| @ozcanzaferayan | Kotlin    | 8          |
 | @alprshn		  | Kotlin    | 1          |
-| @frkinal        | React Native| 1-2      |
-| @suleymanoner   | React Native | 1-2     |
 | @baris-gungorr  | Kotlin     |  1         |
 
 ## iOS
 | Username        | Techstack  | Experience |
 | --------------- | ---------- | ---------- |
 | @ozcanzaferayan | Swift      | 8          |
-| @ebrardev       | React Native | 0-1      |
-| @frkinal        | React Native | 1-2      |
 | @sivilabdullah  | Swift      | 1          |
-| @mustafatoptas  | Flutter | 2             |
 | @japsadev       | Swift      | 1          |
 | @mdakbas        | Swift      | 1          |
 
+## React Native
+| Username        | Techstack | Experience |
+| --------------- | --------- | ---------- |
+| @frkinal        | React Native| 1-2      |
+| @suleymanoner   | React Native | 1-2     |
+| @ebrardev       | React Native | 0-1      |
+
+## RFlutter
+| Username        | Techstack | Experience |
+| --------------- | --------- | ---------- |
+| @mustafatoptas  | Flutter | 2             |
+
+
 ## DevOps
 | Username        | Techstack  | Experience |
-| --------------- | ---------- | ---------- |
-| @ozcanzaferayan | Azure      | 8          |
+| --------------- | ---------- | ---------- 
 | @karabayyazilim | Docker     | 1          |
