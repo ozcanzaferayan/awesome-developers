@@ -6,6 +6,8 @@
 - Techstack: Kullandığınız teknolojiler
 - Experience (years): Kaç yıldır bu teknolojiyi kullandığınız
 
+
+=======
 ## Frontend
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
@@ -45,7 +47,7 @@
 | @ozcanzaferayan | Swift      | 8          |
 | @ebrardev       | React Native | 0-1      |
 | @japsadev       | Swift      | 1          |
-
+| @mdakbas        | Swift      | 1          |
 
 ## DevOps
 | Username        | Techstack  | Experience |
