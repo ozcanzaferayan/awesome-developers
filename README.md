@@ -25,6 +25,7 @@
 | @aygunbyr       | React     | 1          |
 | @yemirhan       | React     | 4          |
 |@celebiabdulkadir|Vue, React, Next | 1     |
+| @sudeakq        | React        | 0-1        |
 
 
 ## Backend
