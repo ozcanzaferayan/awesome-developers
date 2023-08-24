@@ -12,6 +12,7 @@
 |-----------------|--------------| ---------- |
 | @ozcanzaferayan | React        | 8          |
 | @ebrardev       | React,Nextjs | 1-2     |
+| @frkinal        | React/Next| 1-2        |
 | @karabayyazilim | React     | 2          |
 | AhmetYalcinkaya | React,Next   | 2         |
 | @07kagan07      | React,Nextjs | 1        |
@@ -25,20 +26,15 @@
 | @yemirhan       | React     | 4          |
 |@celebiabdulkadir|Vue, React, Next | 1     |
 
-## Backend
-| Username        | Techstack  | Experience |
-| --------------- | ---------- | ---------- |
-| @ozcanzaferayan | C#         | 8          |
-| @yemirhan       | Node.js, Go      | 2    |
 
 ## Backend
-
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | C#        | 8          |
 | @karabayyazilim | PHP, Node.js | 4       |
 | @enesorhaan     | C#        | 1-2        |
 | @OmerFI         | Python, Django, DRF, Celery | 3 |
+| @yemirhan       | Node.js, Go      | 2    |
 
 ## Fullstack
 
@@ -56,6 +52,7 @@
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | Kotlin    | 8          |
+| @frkinal        | React Native| 1-2      |
 | @suleymanoner   | React Native | 1-2     |
 
 ## iOS
@@ -63,6 +60,7 @@
 | --------------- | ---------- | ---------- |
 | @ozcanzaferayan | Swift      | 8          |
 | @ebrardev       | React Native | 0-1      |
+| @frkinal        | React Native | 1-2      |
 | @sivilabdullah  | Swift      | 1          |
 | @mustafatoptas  | Flutter | 2             |
 | @japsadev       | Swift      | 1          |
