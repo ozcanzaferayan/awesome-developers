@@ -7,13 +7,7 @@ assignees: ozcanzaferayan
 
 ---
 
-Açıklama
-
-Username: Github kullanıcı adınız
-Techstack: Kullandığınız teknolojiler
-Experience (years): Kaç yıldır bu teknolojiyi kullandığınız
-
-Aşağıdaki alanı değiştirebilirsiniz
+Aşağıdaki içeriği değiştirin
 ## Frontend
 | Username             | Techstack    | Experience |
 |------------------|--------------| ---------- |
