@@ -16,6 +16,7 @@
 | @07kagan07 | React,Nextjs     | 1        |
 | @goktugs        | React/Next | 3         |
 | @yusufgns       | React/Next| 0-1        |
+| @rasitozgun | React/Next | 0-1        |
 | @mustafatoptas  | React/Next/Vue| 6          |
 | @aygunbyr       | React     | 1          |
 | @yemirhan       | React     | 4          |
@@ -53,6 +54,7 @@
 | --------------- | ------------ | ---------- |
 | @ozcanzaferayan | C#, JQuery   | 8          |
 | @goktugs        | React,Nodejs | 3          |
+| @rasitozgun        | React,Nodejs,PHP | 1          |
 | @mustafatoptas  | Nodejs/.Net MVC/.Net Core | 6          |
 | @OmerFI         | Python, Django, DRF, Celery, React, JQuery | 3 |
 | MertErdoganJr   | FullStack(Jr)  | 0-1 |
