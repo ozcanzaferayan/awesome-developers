@@ -7,7 +7,6 @@
 - Experience (years): Kaç yıldır bu teknolojiyi kullandığınız
 
 
-=======
 ## Frontend
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
@@ -34,6 +33,7 @@
 | --------------- | ------------ | ---------- |
 | @ozcanzaferayan | C#, JQuery   | 8          |
 | @goktugs        | React,Nodejs | 3          |
+| MertErdoganJr   | FullStack(Jr)  | 0-1 |
 
 ## Android
 
