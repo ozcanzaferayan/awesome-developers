@@ -17,7 +17,7 @@
 | @goktugs        | React/Next   | 3         |
 | @yusufgns       | React/Next   | 0-1        |
 | @dilekaltun35   | Vue/Nuxt     | 0-1        |
-| AhmetYalcinkaya | React,Next | 2         |
+| @CenkErdonmez   | React/Next| 0-1        |
 | @rasitozgun | React/Next | 0-1        |
 | @mustafatoptas  | React/Next/Vue| 6          |
 | @aygunbyr       | React     | 1          |
