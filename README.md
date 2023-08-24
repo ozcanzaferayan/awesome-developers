@@ -53,6 +53,7 @@
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | Kotlin    | 8          |
+| @alprshn		  | Kotlin    | 1          |
 | @frkinal        | React Native| 1-2      |
 | @suleymanoner   | React Native | 1-2     |
 | @baris-gungorr  | Kotlin     |  1         |
