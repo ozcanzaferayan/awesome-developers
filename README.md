@@ -40,6 +40,7 @@
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | C#        | 8          |
+| @OmerFI         | Python, Django, DRF, Celery | 3 |
 
 ## Fullstack
 
@@ -47,6 +48,7 @@
 | --------------- | ------------ | ---------- |
 | @ozcanzaferayan | C#, JQuery   | 8          |
 | @goktugs        | React,Nodejs | 3          |
+| @OmerFI         | Python, Django, DRF, Celery, React, JQuery | 3 |
 | MertErdoganJr   | FullStack(Jr)  | 0-1 |
 
 ## Android
