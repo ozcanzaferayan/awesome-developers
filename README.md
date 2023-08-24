@@ -67,7 +67,8 @@
 | --------------- | --------- | ---------- |
 | @frkinal        | React Native| 1-2      |
 | @suleymanoner   | React Native | 1-2     |
-| @ebrardev       | React Native | 0-1      |
+| @ebrardev       | React Native | 0-1
+| [@akaramanapp](https://github.com/akaramanapp) | React Native | 6 |
 
 ## RFlutter
 | Username        | Techstack | Experience |
