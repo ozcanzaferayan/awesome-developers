@@ -48,7 +48,7 @@
 | @OmerFI                                        | Python, Django, DRF, Celery, React, JQuery | 3          |
 | MertErdoganJr                                  | FullStack(Jr)                              | 0-1        |
 | [@nizsimsek](https://github.com/nizsimsek)     | React, Laravel, NodeJS, WebSocket          | 2          |
-| [@ugurkorkmaz](https://github.com/ugurkorkmaz) | Symfony, Svelte/Kit                        | 4          |
+| [@ugurkorkmaz](https://github.com/ugurkorkmaz) | Symfony, SvelteKit                        | 4          |
 
 ## Android
 
