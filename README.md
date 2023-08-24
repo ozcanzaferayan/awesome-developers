@@ -50,12 +50,12 @@
 | [@nizsimsek](https://github.com/nizsimsek) | React, Laravel, NodeJS, WebSocket | 2 |
 
 ## Android
-
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | Kotlin    | 8          |
 | @frkinal        | React Native| 1-2      |
 | @suleymanoner   | React Native | 1-2     |
+| @baris-gungorr  | Kotlin     |  1         |
 
 ## iOS
 | Username        | Techstack  | Experience |
