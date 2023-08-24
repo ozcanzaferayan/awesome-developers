@@ -11,6 +11,7 @@
 | Username        | Techstack | Experience |
 | --------------- | --------- | ---------- |
 | @ozcanzaferayan | React     | 8          |
+| @aygunbyr       | React     | 1          |
 | @yemirhan       | React     | 4          |
 
 ## Backend
