@@ -26,6 +26,7 @@
 | @yemirhan       | React     | 4          |
 |@celebiabdulkadir|Vue, React, Next | 1     |
 | @sudeakq        | React        | 0-1        |
+| @YunusDogru   | React/Next, Vue/Nuxt| 0-1|
 
 
 ## Backend
