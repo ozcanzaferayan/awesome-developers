@@ -8,25 +8,27 @@
 
 
 ## Frontend
-| Username        | Techstack    | Experience |
-|-----------------|--------------| ---------- |
-| @ozcanzaferayan | React        | 8          |
-| @ebrardev       | React,Nextjs | 1-2     |
+| Username        | Techstack  | Experience |
+|-----------------|------------|------------|
+| @ozcanzaferayan | React      | 8          |
+| @ebrardev       | React,Nextjs | 1-2        |
 | @frkinal        | React/Next| 1-2        |
 | @karabayyazilim | React     | 2          |
-| AhmetYalcinkaya | React,Next   | 2         |
-| @07kagan07      | React,Nextjs | 1        |
-| @goktugs        | React/Next   | 3         |
-| @yusufgns       | React/Next   | 0-1        |
-| @dilekaltun35   | Vue/Nuxt     | 0-1        |
+| AhmetYalcinkaya | React,Next | 2          |
+| @07kagan07      | React,Nextjs | 1          |
+| @goktugs        | React/Next | 3          |
+| @yusufgns       | React/Next | 0-1        |
+| @dilekaltun35   | Vue/Nuxt   | 0-1        |
 | @CenkErdonmez   | React/Next| 0-1        |
 | @rasitozgun | React/Next | 0-1        |
 | @mustafatoptas  | React/Next/Vue| 6          |
 | @aygunbyr       | React     | 1          |
 | @yemirhan       | React     | 4          |
-|@celebiabdulkadir|Vue, React, Next | 1     |
-| @sudeakq        | React        | 0-1        |
-| @YunusDogru   | React/Next, Vue/Nuxt| 0-1|
+|@celebiabdulkadir|Vue, React, Next | 1          |
+| @sudeakq        | React      | 0-1        |
+| @YunusDogru   | React/Next, Vue/Nuxt| 0-1        |
+| @burakcihan61   | React/Next| 2          |
+
 
 
 ## Backend
