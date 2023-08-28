@@ -10,7 +10,6 @@
 ## Frontend
 | Username        | Techstack    | Experience |
 |-----------------|--------------| ---------- |
-| @ozcanzaferayan | React        | 8          |
 | @ebrardev       | React,Nextjs | 1-2     |
 | @frkinal        | React/Next| 1-2        |
 | @karabayyazilim | React     | 2          |
