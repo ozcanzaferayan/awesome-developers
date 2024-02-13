@@ -49,6 +49,8 @@
 | [@omerycll](https://github.com/omerycll) | PHP, Node.js                | 3          |
 | [@ozgurozalp](https://github.com/ozgurozalp) | Node.js, Laravel	           | 3          |
 | [@burakcihan61](https://github.com/burakcihan61) | Node.js/Express             | 1          |
+| [@tubacebi](https://github.com/tubacebi) | .Net, C#             | 17          |
+| [@tubacebi](https://github.com/tubacebi) | Java             | 7          |
 
 ## Fullstack
 
@@ -61,6 +63,7 @@
 | [@MertErdoganJr](https://github.com/MertErdoganJr) | FullStack(Jr)  | 0-1        |
 | [@nizsimsek](https://github.com/nizsimsek) | React, Laravel, NodeJS, WebSocket | 2          |
 | [@berkoca](https://github.com/berkoca) | Node.js, React, Vue| 4          |
+| [@tubacebi](https://github.com/tubacebi) | .Net MVC,.Net Core | 8          |
 
 ## Android
 | Username        | Techstack | Experience |
